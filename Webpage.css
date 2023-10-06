@@ -1,0 +1,117 @@
+*{
+  font-family:'Segoe UI semibold';
+}
+
+.header {
+  background-color: #3796c9;
+  color: white;
+  height: 108px;
+ padding-top:1px;
+}
+
+.h1 {
+  font-size: 48px;
+  margin-left: 22px;
+}
+.topnav {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+ 
+}
+
+.home {
+  display: inline-block;
+  line-height: 30px;
+  font-weight: 700;
+  padding: 10px 25px;
+}
+.img{
+  float:right;
+  padding: 20px;
+}
+.news1 {
+  display: inline;
+  line-height: 30px;
+  font-weight: 700;
+  padding: 10px 25px;
+}
+
+.contact {
+  display: inline;
+  line-height: 30px;
+  font-weight: 700;
+  padding: 10px 25px;
+}
+
+.About {
+  display: inline;
+
+  line-height: 30px;
+
+  font-weight: 700;
+  padding: 10px 25px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.description {
+  padding-bottom: 20px;
+  
+  
+}
+
+.News {
+  border: 1px solid #00000052;
+  width: 59%;
+  
+}
+.newsheader {
+  padding-left: 10px;
+}
+.info {
+  padding: 0px 20px;
+}
+h2 {
+  font-size: 20px;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  padding: 20px 35px;
+}
+
+li {
+  list-style-type: none;
+}
+.description::before {
+  content: " -";
+}
+
+ul {
+  padding: 0px;
+  margin:0px;
+}
+body {
+ margin:0px; 
+
+ }
+
+.data {
+line-height: 18px;
+
+ 
+
+width: 84%;
+}
+.para1 {
+  padding-bottom : 24px;
+}
+
+
